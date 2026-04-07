@@ -386,7 +386,7 @@ p, span, a, li, input, textarea, select, button { font-family: 'Futura PT', sans
     }
     /* Infobar at 2K */
     #uvod + section {
-        margin-top: -223px !important;
+        margin-top: -220px !important;
         padding-top: 2.5rem !important;
         padding-bottom: 2.5rem !important;
     }
@@ -398,8 +398,8 @@ p, span, a, li, input, textarea, select, button { font-family: 'Futura PT', sans
         font-size: 33px !important;
         white-space: nowrap;
     }
-    #uvod + section p, #uvod + section span.font-futura {
-        font-size: 25px !important;
+    #uvod + section p, #uvod + section span.font-futura, #uvod + section a {
+        font-size: 30px !important;
         white-space: nowrap;
     }
     .infobar-divider {
@@ -545,8 +545,8 @@ p, span, a, li, input, textarea, select, button { font-family: 'Futura PT', sans
         font-size: 22px !important;
         white-space: nowrap;
     }
-    #uvod + section p, #uvod + section span.font-futura {
-        font-size: 16px !important;
+    #uvod + section p, #uvod + section span.font-futura, #uvod + section a {
+        font-size: 18px !important;
         white-space: nowrap;
     }
     .infobar-divider {
