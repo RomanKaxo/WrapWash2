@@ -398,7 +398,7 @@ p, span, a, li, input, textarea, select, button { font-family: 'Futura PT', sans
         font-size: 33px !important;
         white-space: nowrap;
     }
-    #uvod + section p, #uvod + section span.font-futura, #uvod + section a {
+    #uvod + section p, #uvod + section span.font-futura, #uvod + section a, #uvod + section div {
         font-size: 30px !important;
         white-space: nowrap;
     }
@@ -545,7 +545,7 @@ p, span, a, li, input, textarea, select, button { font-family: 'Futura PT', sans
         font-size: 22px !important;
         white-space: nowrap;
     }
-    #uvod + section p, #uvod + section span.font-futura, #uvod + section a {
+    #uvod + section p, #uvod + section span.font-futura, #uvod + section a, #uvod + section div {
         font-size: 18px !important;
         white-space: nowrap;
     }
